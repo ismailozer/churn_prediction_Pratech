@@ -2,7 +2,7 @@
 
 Bu proje, bir e-ticaret platformundaki müşteri davranışlarını analiz ederek, platformu terk etme (churn) riski olan müşterileri tahmin eden uçtan uca bir Makine Öğrenmesi pipeline'ı içerir. **Pratech Teknik Değerlendirme** süreci kapsamında hazırlanmıştır.
 
-### 1. Hedef Kitle (Stakeholders)
+### Hedef Kitle (Stakeholders)
 * **E-Ticaret Operasyon Yöneticileri:** Müşteri kaybını minimize ederek geliri korumayı hedefler.
 * **Pazarlama Ekipleri:** Hangi müşteri segmentine hangi kampanyanın yapılacağına karar verir.
 * **Müşteri İlişkileri (CRM) Departmanı:** Memnuniyetsizliği yüksek olan müşterilere öncelik verir.
